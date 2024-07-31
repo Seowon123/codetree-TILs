@@ -11,4 +11,4 @@ for i in arr:
 
 a_avg = a_sum/cnt
 
-print(a_sum, a_avg)
+print(f"{a_sum} {a_avg:.1f}")
