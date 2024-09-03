@@ -9,6 +9,6 @@ for i in range(len(arr)):
         idx = i
     
 if idx == -1:
-    print('none')
+    print('None')
 else:
     print(idx)
